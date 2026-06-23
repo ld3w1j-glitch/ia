@@ -1,0 +1,27 @@
+COMO USAR NO WINDOWS
+
+OPÇÃO 1 - CRIAR EXECUTÁVEL
+1. Extraia este ZIP.
+2. Entre na pasta odysseus-dev.
+3. Clique duas vezes em CRIAR_EXE_WINDOWS.bat.
+4. Aguarde instalar tudo.
+5. Quando terminar, abra:
+   dist\Odysseus\Odysseus.exe
+
+OPÇÃO 2 - ABRIR SEM CRIAR EXE
+1. Clique duas vezes em ABRIR_SEM_CRIAR_EXE.bat.
+2. Depois acesse no navegador:
+   http://127.0.0.1:7000
+
+REQUISITOS
+- Windows 10 ou 11
+- Python 3.11 ou superior instalado
+- Internet na primeira instalação
+
+IMPORTANTE
+Na primeira execução ele pode demorar porque instala muitas bibliotecas.
+Se der erro, tire print da tela inteira e envie no ChatGPT.
+
+OBSERVAÇÃO
+O executável verdadeiro do Windows precisa ser compilado dentro do próprio Windows.
+Por isso deixei o criador automático CRIAR_EXE_WINDOWS.bat dentro do pacote.
